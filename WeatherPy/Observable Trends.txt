@@ -1,6 +1,6 @@
 ### Observable Trends
 
-1. The closer a city is to the Equator, the warmer its temperature is. This because, due to the tilt of the Earth, the Equator is closer to the sun and receives more of its energy.
+1. The closer a city is to the Equator, the warmer its temperature is. This is because, due to the tilt of the Earth, the Equator is closer to the sun and receives more of its energy.
 
 2. Latitude is not correlated with cloudiness. This is because is cloudiness determined by other factors such as altitude.
 
